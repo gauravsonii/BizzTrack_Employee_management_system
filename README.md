@@ -130,4 +130,4 @@ This project is for educational purposes and not licensed for commercial use.
 
 ---
 
-**Developed by Parth Nath Chauhan**
+**Developed by Parth Gaurav Soni**
