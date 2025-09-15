@@ -125,9 +125,6 @@ BizzTrack is a full-stack web application designed to manage various aspects of 
 - Transition to a proper React build setup (e.g., Vite or Create React App) for better performance.
 - Add user authentication and authorization.
 
-## License
-This project is for educational purposes and not licensed for commercial use.
-
 ---
 
 **Developed by Parth Gaurav Soni**
